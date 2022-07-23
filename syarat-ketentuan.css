@@ -1,0 +1,28 @@
+.logo{
+    margin-right:1rem;
+}
+
+.navbar {
+    border-bottom:1px solid black;
+    box-shadow: 0 4px 2px -2px gray;
+    border-radius:12px;
+}
+
+.update-button {
+    border-radius:50px;
+}
+.detail {
+    margin-top:5rem;
+}
+
+.detail-no {
+    margin-left:2rem;
+}
+
+.detil {
+    margin-top:4rem;
+}
+
+body {
+    margin :0px !important;
+}
